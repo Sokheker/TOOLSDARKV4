@@ -21,6 +21,7 @@ gem install lolcat
 git clone https://github.com/Sokheker/TOOLSDARKV4
 cd TOOLSDARKV4
 unzip TOOLSDARKV4.zip
+cd TOOLSDARKV4 
 bash TOOLSDARKV4.sh
 ## on Linux
 sudo apt update
@@ -33,5 +34,6 @@ gem install lolcat
 git clone https://github.com/Sokheker/TOOLSDARKV4
 cd TOOLSDARKV4
 unzip TOOLSDARKV4.zip
+cd TOOLSDARKV4 
 bash TOOLSDARKV4.sh
 # TOOLSDARKV4 
